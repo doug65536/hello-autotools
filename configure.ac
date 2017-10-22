@@ -1,4 +1,4 @@
-AC_INIT([dgos], [0.8])
+AC_INIT([hello-autotools], [0.8])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIRS([m4])
 AC_CONFIG_FILES([Makefile])
